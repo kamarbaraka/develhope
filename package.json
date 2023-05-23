@@ -1,0 +1,12 @@
+{
+  "name": "develhope",
+  "version": "1.0.0",
+  "description": "develhope school projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kamar",
+  "license": "GPL"
+}
